@@ -1,1 +1,0 @@
-curl --header 'Authorization: Bearer <o.rNIeIAy839GPmoyVCry8m66xeluDxfQb>' -X POST https://api.pushbullet.com/v2/pushes --header 'Content-Type: application/json' --data-binary '{"type": "link", "title": "Hello from <github.com>", "body": "The task is done. Tap here to connect.", “url”:”ssh://<github.com[:22]>”}’
